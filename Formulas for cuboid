@@ -4,7 +4,7 @@ height= float(input("Enter the height of the cuboid: "))
 length= float(input("Enter the length of the cuboid "))
 TSA= 2 * (base * height + height * length + base * length)
 LSA= 2 * height * (length + base)
-V= base * height * length
+Volume= base * height * length
 print("Total Surface Area of cuboid:", TSA)
 print("Lateral Surface Area of cuboid:", LSA)
-print("The volume of cuboid: ", V)
+print("The volume of cuboid: ", Volume)
