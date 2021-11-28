@@ -1,0 +1,8 @@
+#Formulas for cube
+side= float(input("Enter the side of the cube: "))
+TSA= 6 * side**2
+LSA= 4 * side**2
+V= side**3
+print("Total Surface Area of cube:", TSA)
+print("Lateral Surface Area of cube:", LSA)
+print("The volume of cube: ", V)
