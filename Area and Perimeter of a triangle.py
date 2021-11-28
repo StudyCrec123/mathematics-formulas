@@ -1,4 +1,4 @@
-#Formulas for area of triangle and perimeter of triangle
+#Formulas for triangle
 base= float(input("Enter the base of the triangle: "))
 height= float(input("Enter the height of the triangle: "))
 hypotenuse= float(input("Enter the hypotenuse of the triangle: "))
