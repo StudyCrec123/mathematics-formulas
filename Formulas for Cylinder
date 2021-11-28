@@ -6,5 +6,5 @@ TSA= 2*pi*radius*(radius+height)
 LSA= 2*pi*radius*height
 V= pi*radius**2*height
 print("TSA of cylinder:", TSA)
-print("LSA of cylinder:",LSA)
+print("LSA of cylinder:", LSA)
 print("Volume of cylinder: ", V)
